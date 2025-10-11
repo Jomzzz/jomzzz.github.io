@@ -3,6 +3,11 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
+footer:
+  license:
+    enabled: true
+    text: "本作品采用 <a href='https://creativecommons.org/licenses/by/4.0/deed.zh'>知识共享署名 4.0 国际许可协议</a> 进行许可。"
+
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
